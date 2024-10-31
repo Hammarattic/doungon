@@ -7,8 +7,9 @@
             Console.WriteLine("WELCOME TO THE DOUNGON GAME");
             Game.SetUpGame();
 
-
+            Console.WriteLine("goal collect key (K) and get to EXIT (E) F is traps");
             Console.WriteLine("press wasd to move");
+            Console.WriteLine("goal is to escape the doungon");
             
 
             while (true)
